@@ -7,6 +7,7 @@ yarn add nodemailer
 yarn add dotenv
 yarn add bull
 yarn add npm-run-all -D
+yarn add bull-board
 
 Instalar o redis:
 Docker (a melhor escolha): 
@@ -34,7 +35,7 @@ bull  biblioteca node que implementa um sistema de fila super rápido e muito ro
 Redis
 docker para rodar o redis
 npm-run-all para executar varios scripts do packeged.json de uma só vez.
-
+Bull board - Para monitorar as fallhas da aplicação.
 
 
 Backgraund jobs
