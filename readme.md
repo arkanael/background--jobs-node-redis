@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="node" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" width="120px" />
+  <img alt="node" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" width="1200px" />
 </h1>
 
 ## 🏎 Sobre App
